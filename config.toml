@@ -1,0 +1,9 @@
+baseURL = "http://demo.devops.z-cert.lan/"
+languageCode = "en-us"
+title = "Say a little prayer for my demo"
+theme = "hugo-theme-nix"
+disable404 = false
+
+[params]
+  Name = "Z-CERT"
+  About = "Zorgen voor de Zorg! Yay!"
